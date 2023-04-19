@@ -42,8 +42,8 @@ class AutoGPTPluginTwitter(AutoGPTPluginTemplate):
 
     def post_prompt(self, prompt: PromptGenerator) -> PromptGenerator:
         prompt.add_command(
-            "Send Tweet",
-            "send_tweet",
+            "Send a Tweet",
+            "send_one_tweet",
             {
                 "text": "<text>"
             },
