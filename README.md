@@ -1,5 +1,7 @@
 # Auto-GPT Twitter Plugin: Post Tweets
 
+Elevate your social media presence with GPT-4 powered tweets. Compose, schedule, and automate engaging content for maximum impact.
+
 ## 🚀 Installation
 
 Follow these steps to configure the Auto-GPT Twitter Plugin:
